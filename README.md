@@ -1,8 +1,5 @@
 \# Hi there, I'm Nicholas 👋
 
-\<!--
-
-\*\*NickJ77/NickJ77\*\* is a ✨ \_special\_ ✨ repository because its \`README.md\` (this file) appears on your GitHub profile.
 
 🔭 I'm currently working on website automation projects and testing frameworks.
 
