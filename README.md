@@ -30,5 +30,5 @@
 
 Email: njames344@gmail.com
 
-LinkedIn: \[your\_linkedin\_profile\_link]
+LinkedIn: https://www.linkedin.com/in/nicholas-james2/
 
