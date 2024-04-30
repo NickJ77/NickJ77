@@ -1,36 +1,34 @@
-\# Hi there, I'm Nicholas 👋
+# Hi there, I'm Nicholas 👋
+
+- 🔭 I'm currently working on website automation projects and testing frameworks.
+
+**💻 Tech Stack**
+
+`Python`
+
+`Selenium`
+
+`MySQL`
+
+`Postman`
+
+**📂 Projects**
+
+*OsCommerceProject*
+
+- A Manual testing project focused on testing the OsCommerce Watch demo platform
+
+*nopCommerceProject*
+
+- An Python and Selenium based project focused on testing the nopCommerce e-commerce platform.
 
 
-🔭 I'm currently working on website automation projects and testing frameworks.
 
-\*\*💻 Tech Stack\*\*
+⚡ Fun fact: I love cooking and trying new foods
 
-\`Python\`
+**📫 How to reach me**
 
-\`Selenium\`
-
-\`MySQL\`
-
-\`Postman\`
-
-\*\*📂 Projects\*\*
-
-website\_automation\_projects
-
-A collection of Python scripts for automating website interactions and testing.
-
-1
-
-nopCommerceProject
-
-An HTML-based project focused on testing the nopCommerce e-commerce platform.
-
-1
-
-\- ⚡ Fun fact: I love cooking and trying new foods
-
-\*\*📫 How to reach me\*\*
-
-Email: \[your\_email\@example.com]
+Email: njames344@gmail.com
 
 LinkedIn: \[your\_linkedin\_profile\_link]
+
